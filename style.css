@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    color: white;
+}
+body {
+    background-image: url(images/lesly-juarez-isWEKdSRCrA-unsplash.jpg);
+    background-size: 100%
+}
+header {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    color: white;
+    border: 1px solid white;
+    font-size: 30pt;
+    background-color: rgb(134, 155, 132);
+}
+#pages {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: space-around;
+}
+#services {
+    box-shadow: 1rem 1rem 1rem black;
+    border: solid 1px white;
+    color: white;
+    font-weight: bold;
+    font-size: 20pt;
+    background-image: url(images/victor-freitas-hOuJYX2K5DA-unsplash.jpg);
+    background-size: 190%;
+    text-align: center;
+    height: 20rem;
+    width: 15rem;
+}
+#contact {
+    box-shadow: 1rem 1rem 1rem black;
+    font-weight: bold;
+    font-size: 20pt;
+    color: white;
+    background-image: url(images/john-schnobrich-yFbyvpEGHFQ-unsplash.jpg);
+    background-size: 190%;
+    border: solid 1px white;
+    background-color: rgb(134, 155, 132);
+    text-align: center;
+    height: 20rem;
+    width: 15rem;
+}
+#description {
+    box-shadow: 1rem 1rem 1rem black;
+    color: white;
+    font-weight: bold;
+    font-size: 20pt;
+    border: solid 1px white;
+    background-color: rgb(134, 155, 132);
+    text-align: center;
+    height: 20rem;
+    width: 35rem;
+}
+#description_p {
+    text-align: center;
+    margin-top: 5rem;
+    font-weight: normal;
+}
