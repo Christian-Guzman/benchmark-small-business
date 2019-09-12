@@ -40,6 +40,16 @@ header {
     height: 20rem;
     width: 15rem;
 }
+#services:hover {
+    box-shadow: 2rem 2rem 2rem black;
+    font-size: 30pt;
+    transition: linear .2s;
+}
+#contact:hover {
+    box-shadow: 2rem 2rem 2rem black;
+    font-size: 30pt;
+    transition: linear .2s;
+}
 #contact {
     border-radius: 1rem;
     display: flex;
@@ -58,6 +68,7 @@ header {
     width: 15rem;
 }
 #description {
+    opacity: .9;
     border-radius: 1rem;
     box-shadow: 1rem 1rem 1rem black;
     color: white;
@@ -68,6 +79,10 @@ header {
     text-align: center;
     height: 20rem;
     width: 35rem;
+}
+#description img {
+    height: 11rem;
+    border-radius: 2rem;
 }
 #description_p {
     text-align: center;

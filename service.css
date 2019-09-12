@@ -39,6 +39,11 @@ header {
     font-weight: normal;
     font-size: 15pt;
 }
+#personal_training img {
+    border-radius: 5rem;
+    width: 10rem;
+    height: 9rem;
+}
 #video_review {
     background-color: whitesmoke;
     opacity: 0.7;
