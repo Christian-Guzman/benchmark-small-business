@@ -17,7 +17,7 @@ header {
     color: white;
     border: 1px solid white;
     font-size: 30pt;
-    background-color: rgb(134, 155, 132);
+    background-color: rgb(50, 105, 45);
 }
 #pages {
     margin-top: 10rem;
@@ -25,6 +25,10 @@ header {
     justify-content: space-around;
 }
 #services {
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     box-shadow: 1rem 1rem 1rem black;
     border: solid 1px white;
     color: white;
@@ -37,6 +41,10 @@ header {
     width: 15rem;
 }
 #contact {
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     box-shadow: 1rem 1rem 1rem black;
     font-weight: bold;
     font-size: 20pt;
@@ -50,12 +58,13 @@ header {
     width: 15rem;
 }
 #description {
+    border-radius: 1rem;
     box-shadow: 1rem 1rem 1rem black;
     color: white;
     font-weight: bold;
     font-size: 20pt;
     border: solid 1px white;
-    background-color: rgb(134, 155, 132);
+    background-color: rgb(50, 105, 45);
     text-align: center;
     height: 20rem;
     width: 35rem;
