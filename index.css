@@ -37,7 +37,7 @@ header {
     background-image: url(images/victor-freitas-hOuJYX2K5DA-unsplash.jpg);
     background-size: 190%;
     text-align: center;
-    height: 20rem;
+    height: 18rem;
     width: 15rem;
 }
 #services:hover {
@@ -64,7 +64,7 @@ header {
     border: solid 1px white;
     background-color: rgb(134, 155, 132);
     text-align: center;
-    height: 20rem;
+    height: 18rem;
     width: 15rem;
 }
 #description {
@@ -77,16 +77,16 @@ header {
     border: solid 1px white;
     background-color: rgb(50, 105, 45);
     text-align: center;
-    height: 20rem;
+    height: 18rem;
     width: 35rem;
 }
 #description img {
-    height: 11rem;
+    height: 10rem;
     border-radius: 2rem;
 }
 #description_p {
     text-align: center;
-    margin-top: 5rem;
+    margin-top: 4rem;
     font-weight: normal;
 }
 footer {
