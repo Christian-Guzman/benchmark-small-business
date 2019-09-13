@@ -89,3 +89,11 @@ header {
     margin-top: 5rem;
     font-weight: normal;
 }
+footer {
+    font-weight: bold;
+    font-size: 15pt;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 7rem;
+}
